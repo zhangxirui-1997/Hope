@@ -86,7 +86,7 @@ public class Main2Activity extends AppCompatActivity {
                 .add("name","你好")
                 .add("dog","小范")
                 .build();*/
-
+//asdasds
         MultipartBody.Builder builder=new MultipartBody.Builder().setType(MultipartBody.FORM);
         builder.addFormDataPart("zhengmian",file_zhengmianzhao.getName(),
                 RequestBody.create(file_ceshenzhao, MediaType.parse("image/jpeg")));
