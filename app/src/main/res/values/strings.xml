@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyDetermination</string>
+    <string name="first_view_string">
+        （请注意：
+        检测结果仅做参考）
+    </string>
+    <string name="main2_string">
+        （我们不需要您的其他信息）
+    </string>
+    <string name="main2_quanshenzhao">点击图片拍摄\n正面全身照</string>
+    <string name="main2_ceshenzhao">点击图片拍摄\n侧面全身照</string>
+    <string name="main2_dialog">请填写姓名\n否则无法区分报告</string>
+</resources>
